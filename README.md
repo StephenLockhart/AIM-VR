@@ -13,17 +13,17 @@
 </div>
 
 * Snow
-<video src="https://github.com/user-attachments/assets/afb21d0c-eef4-4809-9f80-12a6a8153706" controls width="60%">
+<video src="https://github.com/user-attachments/assets/afb21d0c-eef4-4809-9f80-12a6a8153706" controls width="80%">
   Your browser does not support the video tag.
 </video>
 
 * Rain
-<video src="https://github.com/user-attachments/assets/bfc04d3c-d412-4038-85e7-480f369f2f0c" controls width="60%">
+<video src="https://github.com/user-attachments/assets/bfc04d3c-d412-4038-85e7-480f369f2f0c" controls width="80%">
   Your browser does not support the video tag.
 </video>
 
 * Hazy
-<video src="https://github.com/user-attachments/assets/3e286516-32cb-4564-afec-5c8ffcd61d50" controls width="60%">
+<video src="https://github.com/user-attachments/assets/3e286516-32cb-4564-afec-5c8ffcd61d50" controls width="80%">
   Your browser does not support the video tag.
 </video>
 
