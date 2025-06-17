@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1 style="margin:0;">AIM-VR</h1>
-  <img src="https://github.com/user-attachments/assets/d5dfa45b-44fd-4804-8628-ea9a88f3549d" alt="生成论文标志图像" height="50">
+  <img src="https://github.com/user-attachments/assets/64fc07c6-f310-4a69-ad93-89fdd0b44fce" alt="生成论文标志图像" height="50">
 </div>
 
 [ICME 2025] Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal
