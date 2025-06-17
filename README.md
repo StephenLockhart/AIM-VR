@@ -1,4 +1,8 @@
-# AIM-VR
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h1 style="margin:0;">AIM-VR</h1>
+  <img src="https://github.com/user-attachments/assets/d5dfa45b-44fd-4804-8628-ea9a88f3549d" alt="生成论文标志图像" height="50">
+</div>
+
 [ICME 2025] Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal
 
 ## Code is coming!!
