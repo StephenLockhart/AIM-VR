@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "AIM-VR: All-in-One Video Restoration via Dual-Path Mamba with Frequency Adaptive Fusion"
+authors:
+  - family-names: Lu
+    given-names: Zhizhou
+  - family-names: Liu
+    given-names: Tianrui
+  - family-names: Huang
+    given-names: Junjie
+  - family-names: Chen
+    given-names: Zihan
+  - family-names: Li
+    given-names: Xueqiong
+  - family-names: Xiao
+    given-names: Baili
+  - family-names: Zhao
+    given-names: Wentao
+type: software
+url: "https://github.com/StephenLockhart/AIM-VR"
+license: Apache-2.0
